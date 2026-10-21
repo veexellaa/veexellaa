@@ -3,7 +3,7 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my GitHub profile" />
   <br />
   <br />
-  <img height="50" alt="Hi, I'm Roman and I like Python, Go and Rust" src="images/personal_note.svg" />
+  <img height="50" alt="Hi, I'm Roman and I like Java and Data Science" src="images/personal_note.svg" />
   <br />
   <br />
 </div>
